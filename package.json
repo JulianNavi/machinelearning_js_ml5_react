@@ -2,7 +2,7 @@
   "name": "ml-in-js",
   "version": "0.1.0",
   "dependencies": {
-    "ml5": "^0.4.1",
+    "ml5": "^1.0.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-scripts": "5.0.1"
